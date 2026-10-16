@@ -114,21 +114,6 @@ Edit `.env` and set `GROQ_API_KEY` (free key at [console.groq.com/keys](https://
 
 Groq's model lineup changes over time — if a model ID 404s, check [console.groq.com/docs/models](https://console.groq.com/docs/models) and update `GROQ_TEXT_MODEL` / `GROQ_VISION_MODEL` in `.env` rather than editing the code.
 
-## Usage
-
-Run in order:
-
-```bash
-# 1. Extract and summarize charts/images from a PDF
-#    (edit the hardcoded PDF path in main.py first)
-python main.py
-
-# 2. Chunk text + tables + visual summaries, embed, and index into ChromaDB
-python index_document.py
-
-# 3. Ask questions interactively
-python ask.py
-```
 
 Since `data/processed/` already ships with extracted text, tables, and visual summaries for the sample NovaCore report, you can skip straight to steps 2 and 3 to query it right away.
 
@@ -167,6 +152,3 @@ If any of these fail, `needs_review` is set to `True`, signaling the answer shou
 | Vector store | ChromaDB |
 | Orchestration | LangGraph |
 
-## License
-
-Add a license of your choice (MIT is a common default for POCs like this).
