@@ -128,6 +128,11 @@ NovaCore's 2026 revenue was $132.0M, with an operating margin of 18.4% [Source 1
 Evaluation:
 {'answer_present': True, 'context_retrieved': True, 'citation_count': 1,
  'citations_valid': True, 'needs_review': False}
+
+<img width="958" height="180" alt="image" src="https://github.com/user-attachments/assets/bda10795-ed73-4567-ab4b-80be31f16843" />
+<img width="998" height="234" alt="image" src="https://github.com/user-attachments/assets/7154be09-40ce-4f66-ab08-64e3657eab07" />
+
+
 ```
 
 ## How evaluation works
