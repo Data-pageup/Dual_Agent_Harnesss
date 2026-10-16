@@ -1,0 +1,10 @@
+chromadb
+python-dotenv
+groq
+langchain-text-splitters
+langgraph
+pandas
+pillow
+pymupdf
+sentence-transformers
+tabulate

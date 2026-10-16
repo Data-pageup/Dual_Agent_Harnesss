@@ -1,0 +1,285 @@
+{
+  "document_id": "NovaCore_Multimodal_Company_Report_2026",
+  "source_file": "NovaCore_Multimodal_Company_Report_2026.pdf",
+  "total_tables": 8,
+  "tables": [
+    {
+      "page_number": 1,
+      "table_data": [
+        [
+          "Headquarters",
+          "Singapore",
+          "Employees",
+          "1,480"
+        ],
+        [
+          "2026 Revenue",
+          "$132.0M",
+          "Operating Margin",
+          "18.4%"
+        ],
+        [
+          "Primary Sector",
+          "Industrial AI & IoT",
+          "Markets Served",
+          "42 countries"
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "table_data": [
+        [
+          "Priority",
+          "2026 target",
+          "Year-end status"
+        ],
+        [
+          "European expansion",
+          ">25% YoY regional revenue growth",
+          "Achieved: 31%"
+        ],
+        [
+          "Support speed",
+          "Average resolution <9 hours",
+          "Achieved in July; 8.1 hours in August"
+        ],
+        [
+          "Facility utilization",
+          "80%+ Penang utilization",
+          "Achieved: 82%"
+        ],
+        [
+          "Product profitability",
+          "Flagship gross margin >44%",
+          "Achieved: AtlasEdge X1 at 46%"
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "table_data": [
+        [
+          "Metric",
+          "FY2025",
+          "FY2026",
+          "Change"
+        ],
+        [
+          "Revenue",
+          "$97.5M",
+          "$132.0M",
+          "+35.4%"
+        ],
+        [
+          "Gross profit",
+          "$39.7M",
+          "$56.4M",
+          "+42.1%"
+        ],
+        [
+          "Operating income",
+          "$13.8M",
+          "$24.3M",
+          "+76.1%"
+        ],
+        [
+          "Operating margin",
+          "14.2%",
+          "18.4%",
+          "+4.2 pts"
+        ],
+        [
+          "R&D investment",
+          "$12.1M",
+          "$17.9M",
+          "+47.9%"
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "table_data": [
+        [
+          "Region",
+          "2026 revenue",
+          "YoY growth",
+          "Enterprise customers",
+          "CSAT"
+        ],
+        [
+          "Europe",
+          "$41.2M",
+          "31%",
+          "118",
+          "4.7/5"
+        ],
+        [
+          "North America",
+          "$38.6M",
+          "27%",
+          "104",
+          "4.6/5"
+        ],
+        [
+          "Asia Pacific",
+          "$34.9M",
+          "24%",
+          "96",
+          "4.8/5"
+        ],
+        [
+          "Middle East",
+          "$17.3M",
+          "18%",
+          "51",
+          "4.5/5"
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "table_data": [
+        [
+          "Product",
+          "2026 units",
+          "Average selling price",
+          "Gross margin",
+          "Primary use case"
+        ],
+        [
+          "AtlasEdge X1",
+          "18,400",
+          "$2,850",
+          "46%",
+          "Industrial edge AI gateway"
+        ],
+        [
+          "VisionHub Pro",
+          "9,200",
+          "$4,600",
+          "41%",
+          "Computer-vision inference"
+        ],
+        [
+          "CoreSense Mini",
+          "31,500",
+          "$740",
+          "37%",
+          "IoT sensing & telemetry"
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "table_data": [
+        [
+          "Severity",
+          "Response target",
+          "Resolution target",
+          "2026 compliance"
+        ],
+        [
+          "P1 - Critical",
+          "15 min",
+          "4 hours",
+          "96.8%"
+        ],
+        [
+          "P2 - High",
+          "1 hour",
+          "8 hours",
+          "94.1%"
+        ],
+        [
+          "P3 - Standard",
+          "4 hours",
+          "24 hours",
+          "97.6%"
+        ],
+        [
+          "P4 - Low",
+          "1 business day",
+          "3 business days",
+          "98.9%"
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "table_data": [
+        [
+          "Metric",
+          "2025",
+          "2026",
+          "2027 target"
+        ],
+        [
+          "Facility electricity intensity",
+          "118 kWh/unit",
+          "101 kWh/unit",
+          "<92 kWh/unit"
+        ],
+        [
+          "Production scrap rate",
+          "3.8%",
+          "2.9%",
+          "<2.5%"
+        ],
+        [
+          "Packaging recycled content",
+          "52%",
+          "68%",
+          "80%"
+        ],
+        [
+          "Scope 1+2 emissions",
+          "8,950 tCO2e",
+          "7,420 tCO2e",
+          "<6,600 tCO2e"
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "table_data": [
+        [
+          "Risk",
+          "Likelihood",
+          "Impact",
+          "Primary mitigation"
+        ],
+        [
+          "Semiconductor supply interruption",
+          "Medium",
+          "High",
+          "Dual-source critical compute modules"
+        ],
+        [
+          "Vision model export restrictions",
+          "Low-Medium",
+          "High",
+          "Maintain multi-vendor accelerator roadmap"
+        ],
+        [
+          "Regional currency volatility",
+          "Medium",
+          "Medium",
+          "Natural hedging and selective forwards"
+        ],
+        [
+          "Enterprise cybersecurity incident",
+          "Low",
+          "Very High",
+          "Zero-trust controls, red-team tests, incident drills"
+        ],
+        [
+          "Support hiring constraints",
+          "Medium",
+          "Medium",
+          "Internal academy + AI-assisted triage"
+        ]
+      ]
+    }
+  ]
+}
